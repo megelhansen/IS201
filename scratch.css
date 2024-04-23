@@ -1,0 +1,26 @@
+
+body{font-family:monospace;
+        font-size: 15px;
+        color: darkgray;
+        background-color: azure;
+    }
+
+h1{color: slategray;
+        font-family: monospace;
+    }
+
+p{font-style:italic;
+    }
+
+.italic{font-style: italic
+    }
+
+.darkgray{color:#777777;
+    }
+
+.mediumgray{color:#999999;
+    }
+
+a{color: black;
+    font-size: 15px;
+    }
